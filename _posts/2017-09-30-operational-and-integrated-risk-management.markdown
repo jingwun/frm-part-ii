@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 date: 2017-09-30
 img: course23.png
-icon: course23.png
+icon: course23_icon.png
 launch: operational-and-integrated-risk-management
 alt: image-alt
 project-date: April 2014

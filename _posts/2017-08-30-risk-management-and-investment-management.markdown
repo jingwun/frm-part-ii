@@ -3,7 +3,7 @@ layout: default
 modal-id: 4
 date: 2017-08-30
 img: course24.png
-icon: course24.png
+icon: course24_icon.png
 launch: risk-management-and-investment-management
 alt: image-alt
 project-date: April 2014

@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 date: 2017-10-30
 img: course22.png
-icon: course22.png
+icon: course22_icon.png
 launch: credit-risk-measurement-and-management
 alt: image-alt
 project-date: April 2014

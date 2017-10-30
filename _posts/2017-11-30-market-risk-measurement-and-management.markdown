@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2017-11-30
 img: course21.png
-icon: course21.png
+icon: course21_icon.png
 launch: market-risk-measurement-and-management
 alt: image-alt
 project-date: April 2014

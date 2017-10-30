@@ -4,7 +4,7 @@ modal-id: 1
 date: 2017-10-30
 img: course22.png
 icon: course22.png
-launch: market-risk-measurement-and-management
+launch: credit-risk-measurement-and-management
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
